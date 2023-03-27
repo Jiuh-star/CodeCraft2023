@@ -31,31 +31,39 @@
 - 地图 1（贪心策略容易陷入局部最优解，源码中采取了一些修正方法，但这种方法需要对特定地图适配，不是一种很好的解决办法）
 
 <details>
-<video>
-    <source src="assets/1.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/47910035/227846121-a3ec2f06-026e-4571-ba2b-a750ed0b5c5c.mp4
+
+
 </details>
 
 - 地图 2（还算可以的边缘碰撞规避算法，在源码中需要各个成员方法协作才能成功，不单单只有`_correct_border_collision()`中体现的方法）
 
 <details>
-<video>
-    <source src="assets/2.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/47910035/227846145-12e975e8-5f45-43bc-a51d-79bbfb065616.mp4
+
+
 </details>
 
 - 地图 3（机器人碰撞规避算法写的很差，写出来时初赛已经结束一天嘞 T_T）
 
 <details>
-<video>
-    <source src="assets/3.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/47910035/227846154-ec5202b9-d42b-43de-972d-845ea12d6133.mp4
+
+
 </details>
 
 - 地图4（修正的贪心策略导致地图 4 的成绩也出现了下滑）
 
 <details>
-<video>
-    <source src="assets/4.mp4" type="video/mp4">
-</video>
+
+
+https://user-images.githubusercontent.com/47910035/227846170-738c4347-f133-471b-8465-15038446535e.mp4
+
+
 </details>
